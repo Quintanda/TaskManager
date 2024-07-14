@@ -1,0 +1,27 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+}
+
+#type-area, #check-area {
+	width: 50vw;
+	height: 90vh;
+}
+
+#type-area textarea{
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+/* Form element with the input box */
+#check-area-form {
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.bordered {
+	border: 1px solid red;
+}
